@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "King2Cute"
 name = "MOREbackpacks"
-description = "TODO: Fill in short mod description."
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+description = "Spawns enough backpacks at camps when people die"
+websiteUrl = "https://github.com/king2cute/MOREbackpacks"
 containsNsfwContent = false
 
 [package.dependencies]
